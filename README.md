@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Someone to Argue With](https://mishu.im)
 
-- 🌱 I’m currently learning **ML.NET, React Native, MongoDB**
+- 🌱 I’m currently learning **Angular, MongoDB, Next.js**
 
 - 👨‍💻 All of my projects are available at [my personal portfolio](https://talisrae.li)
 
